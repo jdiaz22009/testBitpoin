@@ -1,0 +1,3 @@
+- check version node 
+- install yarn install
+- yarn dev  
